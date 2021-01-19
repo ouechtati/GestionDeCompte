@@ -1,5 +1,5 @@
 # GestionDeCompte:
-c'est un projet mavne springboot avec thymllef commme framewrok en front end :
+c'est un projet mavne springboot avec thymeleaf commme framewrok en front end :
 
 1) création de la base de donné sous votre environnement nommé : mybanque.
 
